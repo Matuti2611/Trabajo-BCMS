@@ -2,8 +2,10 @@
 
 # Trabajo-BCMS
 
-<h3>Integrantes del Equipo</h3>
+<h3>Integrantes</h3>
 
-> **Sofía Koprcina** &nbsp;•&nbsp; **Ciro Pregot** &nbsp;•&nbsp; **Matías Rubio** &nbsp;•&nbsp; **Benicio Sánchez Mandato**
+<p>
+**Sofía Koprcina** &nbsp;•&nbsp; **Ciro Pregot** &nbsp;•&nbsp; **Matías Rubio** &nbsp;•&nbsp; **Benicio Sánchez Mandato**
+</p>
 
 </div>
