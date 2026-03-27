@@ -1,9 +1,9 @@
 <div align="center">
 
-<h2>Trabajo-BCMS</h2>
+# Trabajo-BCMS
 
 <h3>Integrantes</h3>
 
-<h4><kbd>Sofía Koprcina</kbd> <kbd>Ciro Pregot</kbd> <kbd>Matías Rubio</kbd> <kbd>Benicio Sánchez Mandato</kbd></h4>
+**Sofía Koprcina** &nbsp;•&nbsp; **Ciro Pregot** &nbsp;•&nbsp; **Matías Rubio** &nbsp;•&nbsp; **Benicio Sánchez Mandato**
 
 </div>
