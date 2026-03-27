@@ -4,6 +4,6 @@
 
 <h3>Integrantes</h3>
 
-**Sofía Koprcina** &nbsp;•&nbsp; **Ciro Pregot** &nbsp;•&nbsp; **Matías Rubio** &nbsp;•&nbsp; **Benicio Sánchez Mandato**
+<kbd>Sofía Koprcina</kbd> <kbd>Ciro Pregot</kbd> <kbd>Matías Rubio</kbd> <kbd>Benicio Sánchez Mandato</kbd>
 
 </div>
