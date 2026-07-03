@@ -47,9 +47,10 @@ Sección que muestra los sprites utilizados en el juego. Dado que el juego corre
 | :---: | :--- | :---: |
 | <img src="sprites/plata.png" width="64" height="32" alt="Bloque de Plata"> | **Plata** (Resistente) | 16×8 px |
 | <img src="sprites/plata-rotura.png" width="64" height="32" alt="Bloque de Plata Dañado"> | **Plata Dañado** | 16×8 px |
-| <img src="sprites/dorado.png" width="64" height="32" alt="Bloque Dorado"> | **Dorado** (Indestructible) | 16×8 px |
+| <img src="sprites/dorado.png" width="64" height="32" alt="Bloque Dorado"> | **Dorado** (Resistente) | 16×8 px |
 | <img src="sprites/dorado-rotura-1.png" width="64" height="32" alt="Bloque Dorado Dañado 1"> | **Dorado Dañado (Fase 1)** | 16×8 px |
 | <img src="sprites/dorado-rotura-2.png" width="64" height="32" alt="Bloque Dorado Dañado 2"> | **Dorado Dañado (Fase 2)** | 16×8 px |
+| <img src="sprites/diamante.png" width="64" height="32" alt="Bloque Diamante"> | **Diamante** (Indestructible) | 16×8 px |
 
 ### Enemigos
 
@@ -64,7 +65,6 @@ Sección que muestra los sprites utilizados en el juego. Dado que el juego corre
 | :---: | :--- | :---: |
 | <img src="sprites/power-bomba.png" width="48" height="48" alt="Power-up Bomba"> | **Power-up Bomba** | 12×12 px |
 | <img src="sprites/power-pelota.png" width="48" height="48" alt="Power-up Pelota"> | **Power-up Pelota** | 12×12 px |
-| <img src="sprites/diamante.png" width="64" height="32" alt="Diamante"> | **Diamante** (Puntaje/Ítem) | 16×8 px |
 
 ### Otros / Fondos
 
