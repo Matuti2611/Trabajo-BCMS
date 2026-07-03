@@ -17,3 +17,57 @@ Durante la partida pueden aparecer elementos que modifican el comportamiento del
 En el nivel aparecen también enemigos que se desplazan por la pantalla e interfieren con la trayectoria de la bola, añadiendo una capa adicional de dificultad. El jugador dispone de un número limitado de vidas, perdiéndose una cada vez que la bola cae por la parte inferior sin ser interceptada por la plataforma. La puntuación se acumula en función de la cantidad de bloques destruidos, los enemigos eliminados y las cápsulas recogidas.
 
 </div>
+
+---
+
+## Sprites
+
+Sección que muestra los sprites utilizados en el juego. Dado que el juego corre en una baja resolución, los sprites originales son pequeños (de pocos píxeles) y se muestran aquí ampliados a escala **4x** para apreciar mejor su diseño en el navegador.
+
+### Jugador y Bola
+
+| Sprite | Nombre | Dimensiones Originales |
+| :---: | :--- | :---: |
+| <img src="sprites/vaus.png" width="192" height="32" alt="Vaus"> | **Vaus** (Plataforma del jugador) | 48×8 px |
+| <img src="sprites/Bola.png" width="20" height="16" alt="Bola"> | **Bola** | 5×4 px |
+
+### Bloques Comunes
+
+| Sprite | Tipo | Dimensiones Originales | Sprite | Tipo | Dimensiones Originales |
+| :---: | :--- | :---: | :---: | :--- | :---: |
+| <img src="sprites/bloque-rojo.png" width="64" height="32" alt="Bloque Rojo"> | **Bloque Rojo** | 16×8 px | <img src="sprites/bloque-azul.png" width="64" height="32" alt="Bloque Azul"> | **Bloque Azul** | 16×8 px |
+| <img src="sprites/bloque-verde.png" width="64" height="32" alt="Bloque Verde"> | **Bloque Verde** | 16×8 px | <img src="sprites/bloque-amarillo.png" width="64" height="32" alt="Bloque Amarillo"> | **Bloque Amarillo** | 16×8 px |
+| <img src="sprites/bloque-rosa.png" width="64" height="32" alt="Bloque Rosa"> | **Bloque Rosa** | 16×8 px | <img src="sprites/bloque-naranja.png" width="64" height="32" alt="Bloque Naranja"> | **Bloque Naranja** | 16×8 px |
+| <img src="sprites/bloque-gris.png" width="64" height="32" alt="Bloque Gris"> | **Bloque Gris** | 16×8 px | <img src="sprites/bloque-morado.png" width="64" height="32" alt="Bloque Morado"> | **Bloque Morado** | 16×8 px |
+| <img src="sprites/bloque-marron.png" width="64" height="32" alt="Bloque Marrón"> | **Bloque Marrón** | 16×8 px | <img src="sprites/bloque-pastel.png" width="64" height="32" alt="Bloque Pastel"> | **Bloque Pastel** | 16×8 px |
+
+### Bloques Especiales
+
+| Sprite | Estado / Tipo | Dimensiones Originales |
+| :---: | :--- | :---: |
+| <img src="sprites/plata.png" width="64" height="32" alt="Bloque de Plata"> | **Plata** (Resistente) | 16×8 px |
+| <img src="sprites/plata-rotura.png" width="64" height="32" alt="Bloque de Plata Dañado"> | **Plata Dañado** | 16×8 px |
+| <img src="sprites/dorado.png" width="64" height="32" alt="Bloque Dorado"> | **Dorado** (Indestructible) | 16×8 px |
+| <img src="sprites/dorado-rotura-1.png" width="64" height="32" alt="Bloque Dorado Dañado 1"> | **Dorado Dañado (Fase 1)** | 16×8 px |
+| <img src="sprites/dorado-rotura-2.png" width="64" height="32" alt="Bloque Dorado Dañado 2"> | **Dorado Dañado (Fase 2)** | 16×8 px |
+
+### Enemigos
+
+| Sprite | Nombre | Dimensiones Originales |
+| :---: | :--- | :---: |
+| <img src="sprites/Enemigo-Diamante.png" width="64" height="64" alt="Enemigo Diamante"> | **Enemigo Diamante** | 16×16 px |
+| <img src="sprites/Enemigo-Engranaje.png" width="64" height="64" alt="Enemigo Engranaje"> | **Enemigo Engranaje** | 16×16 px |
+
+### Objetos y Power-ups
+
+| Sprite | Nombre | Dimensiones Originales |
+| :---: | :--- | :---: |
+| <img src="sprites/power-bomba.png" width="48" height="48" alt="Power-up Bomba"> | **Power-up Bomba** | 12×12 px |
+| <img src="sprites/power-pelota.png" width="48" height="48" alt="Power-up Pelota"> | **Power-up Pelota** | 12×12 px |
+| <img src="sprites/diamante.png" width="64" height="32" alt="Diamante"> | **Diamante** (Puntaje/Ítem) | 16×8 px |
+
+### Otros / Fondos
+
+| Sprite | Nombre | Dimensiones Originales |
+| :---: | :--- | :---: |
+| <img src="sprites/fondo1.png" width="128" height="128" alt="Textura de Fondo"> | **Textura de Fondo** | 32×32 px |
