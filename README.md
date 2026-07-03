@@ -16,7 +16,7 @@ Durante la partida pueden aparecer elementos que modifican el comportamiento del
 
 En el nivel aparecen también enemigos que se desplazan por la pantalla e interfieren con la trayectoria de la bola, añadiendo una capa adicional de dificultad. El jugador dispone de un número limitado de vidas, perdiéndose una cada vez que la bola cae por la parte inferior sin ser interceptada por la plataforma. La puntuación se acumula en función de la cantidad de bloques destruidos, los enemigos eliminados y las cápsulas recogidas.
 
-<h3>Historia del Juego</h3>
+<h2>Historia del Juego</h2>
 
 La nave nodriza **ARKANOID** navega por el universo hasta ser atacada por **DOH**, una entidad cósmica que controla el tiempo y las dimensiones. El impacto destruye la nave y lanza al **Vaus** —su plataforma de combate— a una dimensión alternativa controlada por DOH. Atrapado y sin posibilidad de retorno, el Vaus emprende su camino hacia DOH con un único objetivo: derrotarlo y restaurar todo lo destruido.
 
